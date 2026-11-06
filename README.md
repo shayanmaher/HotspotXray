@@ -33,8 +33,8 @@ Grab the latest pre-built APK from the [Releases](https://github.com/shayanmaher
 
 | Package | Architecture | Size | Recommendation | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **HotspotXray-arm64.apk** | `arm64-v8a` | ~67 MB | **Recommended** (Pixel, Samsung, Xiaomi, etc.) | [Download](https://github.com/shayanmahster/HotspotXray/releases/download/v1.0.0/HotspotXray-v1.0.0-arm64.apk) |
-| **HotspotXray-universal.apk** | Universal (All ABIs) | ~126 MB | Compatibility for all architectures | [Download](https://github.com/shayanmahster/HotspotXray/releases/download/v1.0.0/HotspotXray-v1.0.0-universal.apk) |
+| **HotspotXray-arm64.apk** | `arm64-v8a` | ~67 MB | **Recommended** (Pixel, Samsung, Xiaomi, etc.) | [Download](https://github.com/shayanmahster/HotspotXray/releases/download/v1.0.0/HotspotXray-arm64.apk) |
+| **HotspotXray-universal.apk** | Universal (All ABIs) | ~126 MB | Compatibility for all architectures | [Download](https://github.com/shayanmahster/HotspotXray/releases/download/v1.0.0/HotspotXray-universal.apk) |
 
 ---
 
